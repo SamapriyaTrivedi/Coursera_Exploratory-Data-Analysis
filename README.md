@@ -1,7 +1,7 @@
 # Coursera - Exploratory Data Analysis
 
 ## About the course
-This course covers the essential exploratory techniques for summarizing data. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Exploratory techniques are also important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data. This course covers in detail the plotting systems in R as well as some of the basic principles of constructing data graphics. It will also cover some of the common multivariate statistical techniques used to visualize high-dimensional data.
+This course is provided by Johns Hopkins University which covers the essential exploratory techniques for summarizing data. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Exploratory techniques are also important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data. This course covers in detail the plotting systems in R as well as some of the basic principles of constructing data graphics. It will also cover some of the common multivariate statistical techniques used to visualize high-dimensional data.
 
 ## Course Project 1
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
